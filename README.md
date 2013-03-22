@@ -1,4 +1,4 @@
-iOS-test-Automation
+Spartan 
 ===================
 
 iOS test Automation test library and CI library
