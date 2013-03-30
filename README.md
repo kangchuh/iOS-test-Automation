@@ -41,3 +41,5 @@ shell 与 ReportToolset 是用于在终端远行脚本，进行持续集成操�
 	所有捕捉到终端的远行log 存放在module_log目录，会自动建立；之后由testLogFile.sh进行分解；
 	PictureAndXML目录用于存放图与xml文件；
 
+author: dylan zhang
+email : dylan.zhang@ringcentral.com or vicfeiyang@qq.com
