@@ -1,3 +1,6 @@
+/*
+ *@created by dylan	
+ */
 var info = {
     "device":{
 		"name" : function(){
